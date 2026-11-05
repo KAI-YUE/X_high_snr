@@ -98,6 +98,23 @@ User's stance: **zero politics in the feed, period.**
   last gen models", Anthropic/SpaceX "free shares" wealth-share take). Blocked
   2026-11-05. Also noted: very high cadence (103K+ posts) with duplicate reposts.
 
+### C4 — Recurring off-topic (food/lifestyle) content (block tier)
+
+User's stance: a regular feed that keeps surfacing food/lifestyle content with no
+on-topic value is not worth the user’s attention — block, not mute.
+
+- **Trigger:** the account’s regular feed carries **recurring off-topic (food/lifestyle)
+  posts** with no connection to the user’s interest (harnessed use of AI for their work).
+  Recurrence (not a single off-topic post) required — verify with a firsthand scan before
+  acting; where the profile won’t page back far enough, document the limitation honestly.
+- ⇒ **Block** tier (per explicit user instruction 2026-11-05).
+- Verified against @wwwjim — sampled his media grid and ~17 recent posts; only one confirmed
+  food post ("this fixed me today 🤤", yakitori at a restaurant); the rest mixed AI-lab work
+  (@vmaxai — head of design, GlyphBench launch) with lifestyle (Japan/Pokemon/3Blue1Brown).
+  **Honest caveat:** his “keeps posting food” pattern was **not** reproduced in the sample;
+  the user’s observation reflects their For-you loop more than his absolute output. Blocked
+  per explicit user instruction; logged as user-directed, not a clean C4 auto-fire.
+
 ## Open questions / to be filled during review
 
 - [ ] Block vs Mute vs Allow criteria (tiering)
