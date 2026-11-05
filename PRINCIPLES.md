@@ -83,6 +83,21 @@ Verified against @corbtt — 13 posts sampled (Aug–Nov 2026): 6/13 direct quot
 1–3K views / 3–25❤ against 19.7K followers; only outlier (280❤, 14K views) was a quote
 of someone else's work. Blocked 2026-11-05.
 
+### C3 — No politics in the library (block tier)
+
+User's stance: **zero politics in the feed, period.**
+
+- **Trigger:** the account's regular feed carries recurring political/policy commentary —
+  democracy theory, ballot measures, regulation of labs, wealth redistribution, partisan
+  or culture-war discourse. A one-off passing mention adjacent to a tech topic does not
+  fire this rule; recurrence does.
+- Firsthand profile scan required; sample ≥ ~10 posts across recent weeks before acting.
+- ⇒ **Block** tier (again per user: "no politics in my lib").
+- Verified against @gfodor — ~25% of 16 sampled posts were political/policy (democracy
+  point take, CA Prop 38 $4.2B ballot measure, "US should compel labs to open source
+  last gen models", Anthropic/SpaceX "free shares" wealth-share take). Blocked
+  2026-11-05. Also noted: very high cadence (103K+ posts) with duplicate reposts.
+
 ## Open questions / to be filled during review
 
 - [ ] Block vs Mute vs Allow criteria (tiering)
