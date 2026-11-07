@@ -128,6 +128,28 @@ on-topic value is not worth the user’s attention — block, not mute.
   the user’s observation reflects their For-you loop more than his absolute output. Blocked
   per explicit user instruction; logged as user-directed, not a clean C4 auto-fire.
 
+### C5 — Engagement-bait question farming (block tier)
+
+User's stance: a feed dominated by open questions / "let's connect" posts / hot-takes
+that carry no artifact and are shaped to harvest engagement is low-SNR, regardless
+of whether the posts are quotes.
+
+- **Trigger:** the account's regular feed (verified firsthand, ≥ ~10 posts) is
+  dominated by engagement-bait questions / "let's connect" / follow-for-follow posts /
+  hot-takes that (a) carry **no original artifact** (no repo, demo, paper, dataset,
+  or analytical thread) and (b) are **shaped to harvest replies/engagement** rather
+  than convey information. Recurrence required — a single post does not fire.
+- **Distinct from C2:** C2 keys on quote-reaction density (≥ ~50%); C5 keys on
+  question/farming shape with low quote density. An account can fire either or both.
+- ⇒ **Block** tier.
+- Verified against @thisisdemilade — 20 posts (Nov 5 → Oct 29, 2026): zero original
+  artifacts; dominant register = engagement-bait questions ("Are you building today
+  or touching grass?", "Does every product really need paid ads?", "Be honest: Would
+  you hire a developer who relies heavily on AI?", "Build something you would use
+  yourself", "Between Grok Bot, ChatGPT Dots...", "If everyone's building, who's
+  buying?") plus "let's connect"/follow-for-follow awareness posts and a Nigeria
+  social-commentary take. Blocked 2026-11-06 (user-directed; founding example of C5).
+
 ## Open questions / to be filled during review
 
 - [ ] Block vs Mute vs Allow criteria (tiering)
