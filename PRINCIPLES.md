@@ -39,6 +39,19 @@ Caveats accepted by user:
 *(Origin: user — "i bet every time we may need to explicitly refresh the browser,
 otherwise difficult to stay on the same page.")*
 
+## R3 — Ads auto-skip
+
+Promoted/Ad impressions are pure noise and are **auto-skipped**:
+
+1. Never presented for verdict and never counted toward the 5-item batch.
+2. Never acted on (no mute/block; they are not accounts the user chose to
+   follow).
+3. Skipped silently; if a batch would otherwise have <5 items because of ads,
+   refresh/load more until 5 non-ad items are on screen.
+
+*(Origin: user instruction 2026-11-06 — "next time, auto skip ad (say, 2. ad,
+this is pure noise;)".)*
+
 ## C-rules — Content criteria (block vs mute tiers)
 
 ### C1 — Profanity × snark register
