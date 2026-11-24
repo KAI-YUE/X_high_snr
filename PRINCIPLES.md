@@ -150,6 +150,23 @@ of whether the posts are quotes.
   buying?") plus "let's connect"/follow-for-follow awareness posts and a Nigeria
   social-commentary take. Blocked 2026-11-06 (user-directed; founding example of C5).
 
+## P-rules — Per-post interest filters
+
+These rules sort posts for the user's current reading interests. They do not trigger
+account-level mute or block actions.
+
+### P1 — Paper-focused "精读" posts (skip for now)
+
+- **Current preference:** the user is not interested in papers for now.
+- If a post mainly recommends, summarizes, or walks through an academic paper as a
+  deep read ("精读"), mark it **Skip for now** in the high-SNR review.
+- Keep practical AI engineering, implementations, demos, repositories, and analysis
+  eligible even when they are technical. Do not extend this filter to all deep analysis.
+- This is a temporary reading preference; revisit it as the user gives more verdicts.
+- Founding example: @Zen_with_AI's pinned post (Oct 23, 2026) praises a Tom Zahavy
+  paper as the author's favorite recent read and describes its 7.5-page argument.
+  Skip the post under the current preference; no account action follows.
+
 ## Open questions / to be filled during review
 
 - [ ] Block vs Mute vs Allow criteria (tiering)
